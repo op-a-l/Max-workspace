@@ -1,0 +1,101 @@
+{
+	"pattrstorage" : 	{
+		"name" : "interface",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"intboi" : [ 197 ],
+					"attrui" : [ "pattrstorage", "interface" ],
+					"number" : [ 112 ],
+					"hatsGenerator::FMAmt" : [ 45 ],
+					"hatsGenerator::FMFreq" : [ 54 ],
+					"hatsGenerator::mixer" : [ 0.704878073709982, 0.327100295932205, 0.497470666302575 ],
+					"hatsGenerator::pitch" : [ 259.0 ],
+					"hatsGenerator::pitchAmt" : [ 138.0 ],
+					"hatsGenerator::pitchEnvCurve" : [ 94 ],
+					"hatsGenerator::pitchEnvLength" : [ 291 ],
+					"hatsGenerator::volumeEnvelop::u496001658" : [ -1 ],
+					"hatsGenerator::volumeEnvelop::envCurve" : [ 127 ],
+					"hatsGenerator::volumeEnvelop::envFunction" : [ 152.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 4.664383649976351, 1.0, 0, 0.0, 151.999988293317017, 0.0, 0, 0.995, "curve" ],
+					"hatsGenerator::volumeEnvelop::envLength" : [ 152 ],
+					"hatsGenerator::u764000984" : [ -1 ],
+					"hatsGenerator[1]::FMAmt" : [ 45 ],
+					"hatsGenerator[1]::FMFreq" : [ 40 ],
+					"hatsGenerator[1]::mixer" : [ 0.704878073709982, 0.327100295932205, 0.497470666302575 ],
+					"hatsGenerator[1]::pitch" : [ 259.0 ],
+					"hatsGenerator[1]::pitchAmt" : [ 138.0 ],
+					"hatsGenerator[1]::pitchEnvCurve" : [ 94 ],
+					"hatsGenerator[1]::pitchEnvLength" : [ 174 ],
+					"hatsGenerator[1]::volumeEnvelop::u496001658" : [ -1 ],
+					"hatsGenerator[1]::volumeEnvelop::envCurve" : [ 21 ],
+					"hatsGenerator[1]::volumeEnvelop::envFunction" : [ 254.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 7.794430572986797, 1.0, 0, 0.0, 253.999980437516513, 0.0, 0, -0.669291338582677, "curve" ],
+					"hatsGenerator[1]::volumeEnvelop::envLength" : [ 254 ],
+					"hatsGenerator[1]::u764000984" : [ -1 ],
+					"hatsGenerator[2]::FMAmt" : [ 83 ],
+					"hatsGenerator[2]::FMFreq" : [ 54 ],
+					"hatsGenerator[2]::mixer" : [ 0.704878073709982, 0.327100295932205, 0.497470666302575 ],
+					"hatsGenerator[2]::pitch" : [ 259.0 ],
+					"hatsGenerator[2]::pitchAmt" : [ 138.0 ],
+					"hatsGenerator[2]::pitchEnvCurve" : [ 94 ],
+					"hatsGenerator[2]::pitchEnvLength" : [ 291 ],
+					"hatsGenerator[2]::volumeEnvelop::u496001658" : [ -1 ],
+					"hatsGenerator[2]::volumeEnvelop::envCurve" : [ 31 ],
+					"hatsGenerator[2]::volumeEnvelop::envFunction" : [ 152.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 4.664383649976351, 1.0, 0, 0.0, 151.999988293317017, 0.0, 0, -0.511811023622047, "curve" ],
+					"hatsGenerator[2]::volumeEnvelop::envLength" : [ 152 ],
+					"hatsGenerator[2]::u764000984" : [ -1 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"intboi" : [ 197 ],
+					"attrui" : [ "pattrstorage", "interface" ],
+					"number" : [ 112 ],
+					"hatsGenerator::FMAmt" : [ 45 ],
+					"hatsGenerator::FMFreq" : [ 54 ],
+					"hatsGenerator::mixer" : [ 0.704878073709982, 0.327100295932205, 0.497470666302575 ],
+					"hatsGenerator::pitch" : [ 259.0 ],
+					"hatsGenerator::pitchAmt" : [ 138.0 ],
+					"hatsGenerator::pitchEnvCurve" : [ 94 ],
+					"hatsGenerator::pitchEnvLength" : [ 97 ],
+					"hatsGenerator::volumeEnvelop::u496001658" : [ -1 ],
+					"hatsGenerator::volumeEnvelop::envCurve" : [ 23 ],
+					"hatsGenerator::volumeEnvelop::envFunction" : [ 152.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 4.664383649976351, 1.0, 0, 0.0, 151.999988293317017, 0.0, 0, -0.637795275590551, "curve" ],
+					"hatsGenerator::volumeEnvelop::envLength" : [ 152 ],
+					"hatsGenerator::u764000984" : [ -1 ],
+					"hatsGenerator[1]::FMAmt" : [ 45 ],
+					"hatsGenerator[1]::FMFreq" : [ 40 ],
+					"hatsGenerator[1]::mixer" : [ 0.704878073709982, 0.327100295932205, 0.497470666302575 ],
+					"hatsGenerator[1]::pitch" : [ 259.0 ],
+					"hatsGenerator[1]::pitchAmt" : [ 138.0 ],
+					"hatsGenerator[1]::pitchEnvCurve" : [ 40 ],
+					"hatsGenerator[1]::pitchEnvLength" : [ 174 ],
+					"hatsGenerator[1]::volumeEnvelop::u496001658" : [ -1 ],
+					"hatsGenerator[1]::volumeEnvelop::envCurve" : [ 89 ],
+					"hatsGenerator[1]::volumeEnvelop::envFunction" : [ 306.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 9.390140769031346, 1.0, 0, 0.0, 305.999976432598885, 0.0, 0, 0.401574803149606, "curve" ],
+					"hatsGenerator[1]::volumeEnvelop::envLength" : [ 306 ],
+					"hatsGenerator[1]::u764000984" : [ -1 ],
+					"hatsGenerator[2]::FMAmt" : [ 83 ],
+					"hatsGenerator[2]::FMFreq" : [ 54 ],
+					"hatsGenerator[2]::mixer" : [ 0.304878073709982, 0.71228548111739, 0.408581777413686 ],
+					"hatsGenerator[2]::pitch" : [ 259.0 ],
+					"hatsGenerator[2]::pitchAmt" : [ 138.0 ],
+					"hatsGenerator[2]::pitchEnvCurve" : [ 94 ],
+					"hatsGenerator[2]::pitchEnvLength" : [ 291 ],
+					"hatsGenerator[2]::volumeEnvelop::u496001658" : [ -1 ],
+					"hatsGenerator[2]::volumeEnvelop::envCurve" : [ 31 ],
+					"hatsGenerator[2]::volumeEnvelop::envFunction" : [ 152.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 4.664383649976351, 1.0, 0, 0.0, 151.999988293317017, 0.0, 0, -0.511811023622047, "curve" ],
+					"hatsGenerator[2]::volumeEnvelop::envLength" : [ 152 ],
+					"hatsGenerator[2]::u764000984" : [ -1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

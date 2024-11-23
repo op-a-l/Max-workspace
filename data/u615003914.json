@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u153003654",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"jacques" : [ 0 ],
+					"intTest" : [ 41 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

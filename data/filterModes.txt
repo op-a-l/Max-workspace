@@ -1,0 +1,9 @@
+lowpass
+hipass
+bandpass
+lowshelf
+highshelf
+resonant
+allpass
+bandstop
+peaknotch

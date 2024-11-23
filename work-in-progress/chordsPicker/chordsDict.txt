@@ -1,0 +1,26 @@
+{
+	"maj" : 	{
+		"third" : 4,
+		"fifth" : 7,
+		"seventh" : 11,
+		"ninth" : 14,
+		"eleventh" : 18
+	}
+,
+	"min" : 	{
+		"third" : 3,
+		"fifth" : 7,
+		"seventh" : 10,
+		"ninth" : 14,
+		"eleventh" : 17
+	}
+,
+	"dom" : 	{
+		"third" : 4,
+		"fifth" : 7,
+		"seventh" : 10,
+		"ninth" : 14,
+		"eleventh" : 17
+	}
+
+}

@@ -1,0 +1,30 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u038004898",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"livegain~" : [ -2.180569457613743 ],
+					"matrixctrl" : [ 0, 0, 1.0, 2, 0, 1.0, 4, 0, 1.0, 8, 0, 1.0, 11, 0, 1.0, 13, 0, 1.0 ],
+					"kickPhase" : [ 0.0 ],
+					"kickFreq" : [ 43.0 ],
+					"kickLength" : [ 265 ],
+					"pitchLenght" : [ 61.0 ],
+					"pitchAmt" : [ 250 ],
+					"noiseInject" : [ 9 ],
+					"filterCutoff" : [ 33 ],
+					"filterGain" : [ 0.0 ],
+					"filterQ" : [ 0.0 ],
+					"filterType" : [ "edit_mode", 2 ],
+					"clip1Amt" : [ 1.0 ],
+					"clip2Amt" : [ 1.942 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
